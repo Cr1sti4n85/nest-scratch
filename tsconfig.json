@@ -3,6 +3,7 @@
     "module": "commonjs",
     "target": "ES2024",
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "outDir": "./dist"
   }
 }
